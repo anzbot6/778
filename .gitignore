@@ -35,7 +35,7 @@ autom4te.cache
 
 # http://www.gnu.org/software/texinfo
 
-/texinfo.tex
+/texinfo.tex halo
 
 # http://www.gnu.org/software/m4/
 
