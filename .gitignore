@@ -33,9 +33,9 @@ autom4te.cache
 
 /ltmain.sh
 
-# http://www.gnu.org/software/texinfo
+# http://www.gnu.org/software/halo
 
-/texinfo.tex halo
+/texinfo.tex
 
 # http://www.gnu.org/software/m4/
 
